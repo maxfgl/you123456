@@ -5,6 +5,6 @@ int x,y
 printf("ENTER TO THE X);
 scanf("%d", &x);
 y=x+5/x-5;
-printf("Result:%d",y);
+printf("Result:%d",y*2);
 getchar();
 }
